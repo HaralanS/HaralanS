@@ -1,3 +1,5 @@
+<img src="/assets/Frontend banner git 01.png" />
+
 ### Hi there, I'm Haralan Santana 👋
 <br>
 <div style="display: inline-block;">
