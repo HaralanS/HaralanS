@@ -2,6 +2,7 @@
 
 ### Hi there, I'm Haralan Santana 👋
 <br>
+<img " src="/assets/dev-gif-01.gif" />
 <div style="display: inline-block;">
   <img align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -22,12 +23,23 @@
 
 #### Skills
 
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
-- TypeScript
-- React
-- Git
-- Github
+<div>
+  :heavy_check_mark: HTML
+  <br />
+  :heavy_check_mark: CSS
+  <br />
+  :heavy_check_mark: Bootstrap
+  <br />
+  :heavy_check_mark: JavaScript
+  <br />
+  :heavy_check_mark: TypeScript
+  <br />
+  :heavy_check_mark: React
+  <br />
+  :heavy_check_mark: Git
+  <br />
+  :heavy_check_mark: Github
+</div>  
+ 
+
 
