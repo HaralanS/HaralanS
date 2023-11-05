@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi there, I'm Haralan Santana 👋
+<br>
+<div style="display: inline-block;">
+  <img align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</div>
+<br>
 
-<!--
-**HaralanS/HaralanS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- A passionate Front-end developer
+- I’m graduating in analysis and systems development
+- I'm currently learning sql and some backend features to help me develop full web apps
+- I’m currently open for an Intern or a new job opportunity
+
+#### Skills
+
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- TypeScript
+- React
+- Git
+- Github
+
