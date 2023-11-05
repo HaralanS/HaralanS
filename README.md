@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/haralan-santana/" targer="_blank"><img src="/assets/Frontend banner git 01.png" /></a>
+<a href="https://www.linkedin.com/in/haralan-santana/" target="_blank"><img src="/assets/Frontend banner git 01.png" /></a>
 
 ### Hi there, I'm Haralan Santana 👋
 <br>
