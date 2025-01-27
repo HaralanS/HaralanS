@@ -1,45 +1,57 @@
-<a href="https://www.linkedin.com/in/haralan-santana/" target="_blank"><img src="/assets/Frontend banner git 01.png" /></a>
+# Desenvolvedor Fullstack
 
-### Hi there, I'm Haralan Santana 👋
-<br>
-<img " src="/assets/dev-gif-01.gif" />
-<div style="display: inline-block;">
-  <img align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</div>
-<br>
+Desenvolvedor Fullstack com experiência profissional em **Java/Spring** e **Typescript/React** (desde etapas no **Figma**, conteinerização de banco de dados e aplicações, testes unitários até deploy). Atualmente, trabalho no desenvolvimento de processos **BPM** para a plataforma **Fluig da Totvs**.
 
-#### About me
+---
 
-<br>
+## 🛠️ Tecnologias e Ferramentas
 
-- A passionate Front-end developer
-- I’m graduating in analysis and systems development
-- I'm currently learning sql and some backend features to help me develop full web apps
-- I’m currently open for an Intern or a new job opportunity
+### 🖥️ Frontend:
+- ✅ React
+- ✅ Next.js
+- ✅ Typescript
+- ✅ Context API
+- ✅ Redux
+- ✅ Zustand
+- ✅ Axios
+- ✅ Ajax
+- ✅ JQuery
+- ✅ Bootstrap
+- ✅ Tailwind
+- ✅ Sass/Scss
+- ✅ Styled Components
+- ✅ Internacionalização
+- ✅ Figma
 
-#### Skills
+### ⚙️ Backend:
+- ✅ Java
+- ✅ Spring
+- ✅ Mockito
+- ✅ Junit
+- ✅ C#
+- ✅ Dotnet
+- ✅ Entity Framework
+- ✅ Asp Net
+- ✅ Node.js
+- ✅ Fastify
+- ✅ Express
 
-<div>
-  :heavy_check_mark: HTML
-  <br />
-  :heavy_check_mark: CSS
-  <br />
-  :heavy_check_mark: Bootstrap
-  <br />
-  :heavy_check_mark: JavaScript
-  <br />
-  :heavy_check_mark: TypeScript
-  <br />
-  :heavy_check_mark: React
-  <br />
-  :heavy_check_mark: Git
-  <br />
-  :heavy_check_mark: Github
-</div>  
- 
+### 🗄️ Banco de Dados:
+- ✅ Postgresql
+- ✅ Oracle DB
+- ✅ SQL Server
+- ✅ Mysql
+- ✅ MongoDB
 
+### ⌨️ Outras:
+- ✅ Docker
+- ✅ Processos BPM
+- ✅ Fluig
+- ✅ SOAP
+- ✅ API Rest
 
+---
+
+🚀 Estou sempre aprendendo e trabalhando em projetos pessoais para aplicar tecnologias de mercado que estou interessado ou apenas como hobby mesmo.
+
+📩 Se quiser trocar uma ideia ou tirar uma dúvida, não hesite em mandar uma mensagem! 😄
